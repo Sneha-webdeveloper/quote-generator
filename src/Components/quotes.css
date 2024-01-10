@@ -1,0 +1,26 @@
+.container{
+    background: #23acf1;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    color: aliceblue;
+    margin: 10px 50px;
+    text-align: center;
+}
+p{
+    color: black;
+    font-size: larger;
+}
+button{
+    padding: 10px;
+    background-color: green;
+    color: aliceblue;
+    font-weight: bolder;
+    border: 2px white solid;
+    border-radius: 15px;
+}
